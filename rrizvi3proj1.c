@@ -1,6 +1,6 @@
 // 
-// CS 211 - Project 1: Storing data by user into dynamically stored arrays to then search values from it, and report data
-// Rimsha Rizvi (659249234)
+// Project: Storing data by user into dynamically stored arrays to then search values from it, and report data
+// Rimsha Rizvi
 // 
 
 
@@ -199,7 +199,6 @@ int main()
     }
 
   }
-
 
   //binary search on sorted array
   printf("\n");
