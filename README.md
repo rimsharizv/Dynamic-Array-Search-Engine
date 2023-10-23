@@ -1,5 +1,5 @@
 # Dynamic-Array-Search-Engine
-# Author - Rimsha Rizvi
+Author - Rimsha Rizvi
 
 # How to Run the Program
 1. Clone the repository or download the source code file.
