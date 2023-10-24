@@ -1,5 +1,5 @@
 # Dynamic-Array-Search-Engine
-Author - Rimsha Rizvi
+Author: Rimsha Rizvi
 
 ## How to Run the Program
 1. Clone the repository or download the source code file.
@@ -16,9 +16,3 @@ Author - Rimsha Rizvi
 4. Linear search on unsorted arrays.
 5. Binary search on sorted arrays.
 6. Reporting the position of the searched data, the number of comparisons made, and whether the data was found or not.
-
-## Copyright and Plagiarism Notice
-All content in this repository, including code, documentation, and other materials, is the property of Rimsha Rizvi.
-Plagiarism is a serious offense and is strictly prohibited. You may not use, copy, or submit this work as your own. Any instances of plagiarism or unauthorized use will be reported to the relevant academic or professional authorities.
-If you would like to use this work for educational or other non-commercial purposes, please contact the author for permission.
-
